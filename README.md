@@ -1,4 +1,4 @@
-![image](https://github.com/armmya/Links/assets/93005440/4b237a2f-438b-48e2-bfeb-22276f94b8e1)# Links
+# Links
 รวมผลงานที่เป็นลิงค์เช่น คลิป Youtube
 
 https://www.youtube.com/watch?v=LG-yGMS9k4g&t=18s
