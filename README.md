@@ -2,7 +2,7 @@
 รวมผลงานที่เป็นลิงค์เช่น คลิป Youtube
 
 https://www.youtube.com/watch?v=LG-yGMS9k4g&t=18s
-![Screenshot_2](https://github.com/armmya/Links/assets/93005440/94e142a8-f89b-48a8-91b3-175027aab6ba)
+![Yt1](https://github.com/armmya/Links/assets/93005440/034eae32-de9a-425d-86e0-8e077fa67ef4)
 .
 .
 .
